@@ -1,4 +1,5 @@
 *.pem
+*.Identifier
 *.log
 *.tmp
 /node_modules
